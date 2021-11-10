@@ -36,4 +36,4 @@ Team Members
 
 
 ### Live Demo
-https://app.powerbi.com/groups/me/reports/e97e9195-454d-4ef2-bca8-c27907756da2/ReportSectiona0f22f8fdc0e39bb0cd0
+https://app.powerbi.com/view?r=eyJrIjoiNTM1N2FlMDItMjAxYi00OGQ1LTkzMDYtMmE4YzM4YjgyZmU3IiwidCI6ImQxZjE0MzQ4LWYxYjUtNGEwOS1hYzk5LTdlYmYyMTNjYmM4MSIsImMiOjEwfQ%3D%3D&pageName=ReportSection5cd692145c4a88a61c02
